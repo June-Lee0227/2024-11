@@ -1,0 +1,6 @@
+변수는 프로그래밍 언어에서 처리해야 하는 데이터를 담을 수 있도록 도와주는 개념 
+변수를 통해서 데이터에 접근 및 업데이트 가능
+// number, string, boolean, null, undefined (+symbol) >> 가장 작은 단위의 type 즉, primitive data type
+
+let number = 2; // 숫자 2가 number라는 변수에 할당됨
+let num = '2'; // 위와 같은 표현, num이든 number든 정의하기 나름
